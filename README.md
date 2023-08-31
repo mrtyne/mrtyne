@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mrtyne
-- 👀 I’m interested in ... all github work
-- 🌱 I’m currently learning ... coding 
-- 💞️ I’m looking to collaborate on ... python 
-- 📫 How to reach me ... on WhatsApp 08050436797
+- 👀 I’m interested in programming 
+- 🌱 I’m currently learning programming 
+- 💞️ I like coding with python shell
+- 📫 developer.mrtyne656@gmail.com
 
 <!---
 mrtyne/mrtyne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
